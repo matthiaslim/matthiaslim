@@ -15,8 +15,6 @@ I’m an Information and Communications Technology undergraduate at the Singapor
 
 ## 📊 GitHub Stats
 
-![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthiaslim&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=matthiaslim&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiaslim&layout=compact&theme=radical)
